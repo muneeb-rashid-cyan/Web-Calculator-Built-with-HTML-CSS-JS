@@ -30,15 +30,6 @@ git clone https://github.com/muneeb-rashid-cyan/Web-Calculator-Built-with-HTML-C
 - **Perform Calculations**: Enter numbers and use the buttons for arithmetic operations to perform calculations.
 - **Clear Input**: Use the clear button to reset the input and start a new calculation.
 
-## Contributing
-
-Contributions to enhance the calculator and add new features are welcome. If you have any ideas or improvements, feel free to contribute.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## License
 
@@ -46,7 +37,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name] at your.email@example.com.
+For any inquiries or feedback, please contact muneeb  rashid at muneebcyan@gmail.com.
 
 Project Link: [
 ## Usage
